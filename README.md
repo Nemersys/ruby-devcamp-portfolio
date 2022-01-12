@@ -1,6 +1,6 @@
 # Devcamp Portfolio App
 
-> THis is a Ruby on Rails app tjat aççpws users to create their own portfolios.
+>This is a Ruby on Rails app tjat aççpws users to create their own portfolios.
 
 ### Features
 
@@ -11,7 +11,7 @@
 
 ### Code Example
 
-```uby
+```ruby
 def my_method
   puts "here it is"
 end
